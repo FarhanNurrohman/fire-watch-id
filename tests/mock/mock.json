@@ -1,0 +1,27 @@
+{
+    "latitude": -6.2088,
+    "longitude": 106.8456,
+    "generationtime_ms": 0.05,
+    "utc_offset_seconds": 25200,
+    "timezone": "Asia/Jakarta",
+    "timezone_abbreviation": "WIB",
+    "elevation":8.0,
+    "current":{
+        "time": "2026-11-02T19:00",
+        "interval": 900,
+        "temperature_2m": 29.5,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 33.2,
+        "is_day": 0,
+        "precipitation": 0.2,
+        "weather_code": 61,
+        "wind_speed_10m": 12.5
+    },
+    "current_units": {
+        "temperature_2m": "°C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "°C",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+    }
+}
