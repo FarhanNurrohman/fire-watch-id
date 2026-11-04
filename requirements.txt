@@ -3,3 +3,9 @@ fastapi
 uvicorn
 numpy
 requests
+fastapi
+pandas
+httpx
+pytest-asyncio
+dotenv
+pytest-mock
