@@ -9,3 +9,8 @@ httpx
 pytest-asyncio
 dotenv
 pytest-mock
+langchain-core
+langchain-experimental
+langchain-huggingface
+sentence-transformers
+chromadb
